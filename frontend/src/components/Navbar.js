@@ -5,9 +5,6 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-container">
-        <Link to="/" className="nav-logo">
-          Student Team App
-        </Link>
         <ul className="nav-menu">
           <li className="nav-item">
             <Link to="/" className="nav-link">Home</Link>
